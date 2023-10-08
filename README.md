@@ -31,4 +31,4 @@ Feel free to use this project as inspiration and personal use, __but **DO NOT** 
 - [Idol.st](https://idol.st/backgrounds/sif/) - Background
 - [Bandori Party](https://bandori.party/assets/background/) - Background
 - YouTube for Non-Copyrighted SFX
-**AND MUCH MORE** Assets used for personal use and not for commercial uses, including musics, pictures, fonts, etc.
+- **AND MUCH MORE** Assets used for personal use and not for commercial uses, including musics, pictures, fonts, etc.
