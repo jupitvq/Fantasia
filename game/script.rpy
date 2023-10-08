@@ -1,18 +1,7 @@
 ﻿# The script of the game goes in this file.
 
-##pick between one of the two and add an # to the other to keep it
-
-##regular taps, medium intervals
-#define sounds = ['audio/A1.ogg', 'audio/A2.ogg', 'audio/A3.ogg', 'audio/A4.ogg', 'audio/A5.ogg']
-
-##light taps, smaller intervals
-#define sounds = ['audio/B1.ogg', 'audio/B2.ogg', 'audio/B3.ogg', 'audio/B4.ogg', 'audio/B5.ogg']
-
-
 ##both combined
 define sounds = ['audio/A1.ogg', 'audio/A2.ogg', 'audio/A3.ogg', 'audio/A4.ogg', 'audio/A5.ogg', 'audio/B1.ogg', 'audio/B2.ogg', 'audio/B3.ogg', 'audio/B4.ogg', 'audio/B5.ogg']
-
-
 
 init python:
     def type_sound(event, interact=True, **kwargs):

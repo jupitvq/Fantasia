@@ -144,7 +144,6 @@ default preferences.afm_time = 15
 ## literal string, not an expression.
 
 define config.save_directory = "Fantasia-1665549271"
-# define config.save_directory = "OurStory-1665549271"
 
 ## Icon ########################################################################
 ##
