@@ -3,9 +3,9 @@
 
 A visual novel about a male student, who just moving in from his old school to new school. But everything should be fine for him right?
 
-This project meant to be Final Project for first and second semester. And it turned out only the first chapter we could make. By that, we stated that **this project is currently discontinued**. And who knows, one day it might be continued again!
+This project meant to be Final Project for first and second semester, to program and design a game using Python language, and we decided to use [Ren'py](https://www.renpy.org/) as our game engine. And it turned out only the first chapter we could make. By that, we stated that **this project is currently discontinued**. And who knows, one day it might be continued again!
 
-Feel free to use this project as inspiration and personal use, __but **DO NOT** claim this project as yours!__
+Feel free to use this project as inspiration or your needs, __but **DO NOT** claim this project as yours or using it for unintended/malicious purposes!__
 
 
 ## 🔩 System Requirements
